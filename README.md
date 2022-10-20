@@ -1,56 +1,39 @@
-# Eldar Heleg &nbsp;
+# Hello World 🌎, &nbsp;
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
-
-<img align="right" width="450px" alt="GIF" src="https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif" />
-<br>
-
-<p>
-  <em>
-    I am a 3rd Year undergraduate from <a href="https://ptf.unze.ba"> <b>Faculty of Polytechnic at the University of Zenica - Software engineering</b>, Zenica</a>. <br>
-    22 years _only <br>
-    Team member at <a href="https://dscsrm.com/"> <b>DSC SRM Powered by Google Developers</b></a><br>
-    <b>A friendly Neighbourhood Developer</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" width="30px"> and a <b>Learning    Enthusiast,</b>&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20px"> <br>
-    I Love <b>Android Development</b>, xD. <br>
-  </em>  
+<h2> 👨🏻‍💻 About Me </h2>
+<img align="right" width="350px" height="200px" alt="GIF" src="https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif" />
+<p align="left">
+- 🙋‍♂️  Hi, I'm Eldar Heleg, 22 years old, from Bosnia and Herzegovina <br>
+- 🔭  I’m currently learning Flutter Application Development <br>
+- 🤔  Exploring new technologies and developing software solutions and quick hacks. <br>
+- 🎓  3rd Year undergraduate from <a href="https://ptf.unze.ba"> <b>Faculty of Polytechnic, University of Zenica - Software engineering</b></a>. <br>
+- 💼  Flutter developer and UI/UX designer. <br>
+- 🌱  Enthusiast in Graphic Design, Mobile Development, Cyber Security. <br>
+- ✍️  Listening business podcasts and trying out latest design trends as hobbies/side hustles. <br>
+- ☕  I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 </p>
-
-<br>
-<br>
-
-
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=eldarheleg&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
+<hr>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldarheleg&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
-
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=eldarheleg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D4D3D3&bg_color=0,000000,130F40" alt="Eldar's Github Stats">
 
 <br>
-<br>
+<hr>
 
-## Languages and Tools:
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldarheleg&layout=compact&title_color=7A7ADB&text_color=D4D3D3&bg_color=0,000000,130F40" alt="github-readme-stats">
+
+<h2 align="center"> 💡 Languages and Tools: </h2>
+
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
 
 <br>
-<img src="https://media.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" alt="Super Programmer">
----
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<h2 align="center"> 🤝🏻 Connect with Me </h2>
 
-  <a href="https://www.linkedin.com/in/eldar-heleg/">
-    <img align="right" alt="Eldar Heleg | Linkedin" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ellderography/">
-    <img align="right" alt="Eldar Heleg | Instagram" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:eldar.heleg@gmail.com">
-    <img align="right" alt="Eldar Heleg | Gmail" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" />
-  </a>
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/ellderography/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/eldar-heleg/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:eldar.heleg@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-<br><br>
