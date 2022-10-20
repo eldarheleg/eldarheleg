@@ -1,12 +1,9 @@
 # Eldar Heleg &nbsp;
 
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/SatYu26/SatYu26.svg)](http://hits.dwyl.com/SatYu26/SatYu26) 
--->
-
 ### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
 
+<img align="right" width="450px" alt="GIF" src="https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif" />
+<br>
 
 <p>
   <em>
@@ -25,11 +22,11 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=SatYu26&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=eldarheleg&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SatYu26&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eldarheleg&theme=radical)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>
@@ -45,14 +42,14 @@
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="www.linkedin.com/in/eldar-heleg">
+  <a href="https://www.linkedin.com/in/eldar-heleg/">
     <img align="left" alt="Eldar Heleg | Linkedin" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/ellderography/">
-    <img align="left" alt="Eldar Heleg | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Eldar Heleg | Instagram" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
   </a> &nbsp;&nbsp;
   <a href="mailto:eldar.heleg@gmail.com">
-    <img align="left" alt="Eldar Heleg | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Eldar Heleg | Gmail" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" />
   </a>
 
 
