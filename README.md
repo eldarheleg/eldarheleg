@@ -38,8 +38,8 @@
 
 <br>
 <img src="https://media.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif" alt="Super Programmer">
-
-
+---
+<p align="center">
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
   <a href="https://www.linkedin.com/in/eldar-heleg/">
@@ -51,6 +51,6 @@
   <a href="mailto:eldar.heleg@gmail.com">
     <img align="left" alt="Eldar Heleg | Gmail" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png" />
   </a>
-
+</p>
 
 <br><br>
