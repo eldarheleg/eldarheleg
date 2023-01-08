@@ -15,9 +15,9 @@
 <hr>
 <br>
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=eldarheleg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D4D3D3&bg_color=0,000000,130F40" alt="Eldar's Github Stats">
+<img align="center" width="100%" src="https://github-stats-alpha.vercel.app/api?username=eldarheleg&ic=0095ff" alt="Eldar's Github Stats">
 
-![Eldar's Github Stats](https://github-readme-stats.vercel.app/api?username=eldarheleg&show_icons=true&theme=radical)
+
 
 <br>
 <hr>
