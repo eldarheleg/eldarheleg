@@ -7,7 +7,7 @@
 - 🔭  I’m currently learning Flutter Application Development <br>
 - 🤔  Exploring new technologies and developing software solutions and quick hacks. <br>
 - 🎓  3rd Year undergraduate from <a href="https://ptf.unze.ba"> <b>Faculty of Polytechnic, University of Zenica - Software engineering</b></a>. <br>
-- 💼  Flutter developer and UI/UX designer. <br>
+- 💼  //Flutter developer and UI/UX designer. <br>
 - 🌱  Enthusiast in Graphic Design, Mobile Development, Cyber Security. <br>
 - ✍️  Listening business podcasts and trying out latest design trends as hobbies/side hustles. <br>
 - ☕  I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
