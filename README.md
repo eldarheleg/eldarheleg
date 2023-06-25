@@ -3,13 +3,12 @@
 <h2> 👨🏻‍💻 About Me </h2>
 <img align="right" width="350px" height="200px" alt="GIF" src="https://media.tenor.com/7Tu-pBzg0_kAAAAC/programming.gif" />
 <p align="left">
-- 🙋‍♂️  Hi, I'm Eldar Heleg, 22 years old, from Bosnia and Herzegovina <br>
-- 🔭  I’m currently learning Flutter Application Development <br>
+- 🙋‍♂️  Hi, I'm Eldar Heleg, 23 years old, from Bosnia and Herzegovina <br>
+- 🔭  I’m currently learning Flutter, Nodejs, React <br>
 - 🤔  Exploring new technologies and developing software solutions and quick hacks. <br>
 - 🎓  3rd Year undergraduate from <a href="https://ptf.unze.ba"> <b>Faculty of Polytechnic, University of Zenica - Software engineering</b></a>. <br>
 - 💼  //Flutter developer and UI/UX designer. <br>
-- 🌱  Enthusiast in Graphic Design, Mobile Development, Cyber Security. <br>
-- ✍️  Listening business podcasts and trying out latest design trends as hobbies/side hustles. <br>
+- 🌱  Enthusiast in Graphic Design, Mobile and Web Development, Cyber Security. <br>
 - ☕  I belive, a perfect cup of coffee can be the ultimate solution for any stress. <br>
 </p>
 <hr>
